@@ -1,0 +1,2 @@
+module LeaveinfosHelper
+end
